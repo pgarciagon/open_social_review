@@ -1,6 +1,6 @@
 # Open Social — Feedback Draft for Rex
 
-Status: draft for review; **not sent**. Based on the [live user review](USER_REVIEW_RESULTS.md) on September 30, 2026.
+Status: draft for review. Based on the [live user review](USER_REVIEW_RESULTS.md) on September 30, 2026.
 
 Hey Rex — I ran a user-level review of opensocial.online on Harbinger with two disposable accounts, using macOS, Chrome and a separate in-app browser. I also checked a 390 × 844 phone-sized viewport. This was interface testing; it does not cover code, cryptographic security or the economic sustainability of the rewards model.
 

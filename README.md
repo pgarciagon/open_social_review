@@ -10,4 +10,4 @@ Manual user-level review of [Open Social](https://opensocial.online/) on Harbing
 
 Core social flows and account B's identity import were checked with two disposable accounts. Funded OSAT actions, physical-phone coverage, recovery into empty browser storage and account A's downloaded backup verification remain pending. See the results for the exact scope of each check.
 
-Feedback has not been sent to Rex or the group. Recovery files and passphrases are stored privately outside this repository. The local `source/` directory is an excluded reference checkout of the [upstream project](https://github.com/therexdev/Open-Social-Protocol).
+Recovery files and passphrases are stored privately outside this repository. The local `source/` directory is an excluded reference checkout of the [upstream project](https://github.com/therexdev/Open-Social-Protocol).

@@ -4,7 +4,7 @@ Date: September 30, 2026. Session: approximately 22:06–22:52 CEST (Europe/Berl
 
 **Outcome:** the available core social flows passed the checks performed. Two disposable accounts published short and long posts with and without images, exchanged replies and messages, established and removed friendship, and demonstrated the expected visibility of friends-only posts. One offline post was recovered through a single retry without an observed duplicate. This review remains incomplete for funded OSAT transactions, restoration into completely empty browser storage, and testing on a physical phone.
 
-Feedback has **not** been sent to Rex or the group. The [English feedback draft](FEEDBACK_FOR_REX.md) is ready for review.
+The [English feedback draft](FEEDBACK_FOR_REX.md) is ready for review.
 
 ## Environment and method
 
@@ -115,7 +115,7 @@ No reproducible blocking functional failure was confirmed in the completed scena
 4. **Physical phone:** repeat login, post, photo selection, reply and messaging on iOS/Android, including the virtual keyboard and touch controls.
 5. **Optional coverage:** profile blocking, conversation reopening, multi-browser message-history linking, recovery contacts, maximum-size/invalid-media cases, and interruption after broadcast were not tested.
 
-Recovery material is stored privately outside this workspace. It is excluded from reports and screenshots. Account A's in-app tab is retained for recovery follow-up. B's user-completed identity import was verified; its new local passphrase was entered by the user and is not recorded here. The original generated B passphrase must not be assumed valid after the user import. Temporary viewport overrides were reset. No feedback, issue or token-allocation request has been sent externally.
+Recovery material is stored privately outside this workspace. It is excluded from reports and screenshots. Account A's in-app tab is retained for recovery follow-up. B's user-completed identity import was verified; its new local passphrase was entered by the user and is not recorded here. The original generated B passphrase must not be assumed valid after the user import. Temporary viewport overrides were reset.
 
 ## Evidence and source references
 

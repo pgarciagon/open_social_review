@@ -2,7 +2,7 @@
 
 Date: September 30, 2026.
 
-Status: live user testing executed on September 30, 2026; funded OSAT actions, restoration into empty browser storage, and physical-phone coverage remain pending. No feedback has been sent to the group.
+Status: live user testing executed on September 30, 2026; funded OSAT actions, restoration into empty browser storage, and physical-phone coverage remain pending.
 
 See [results and evidence](USER_REVIEW_RESULTS.md) and the [English feedback draft](FEEDBACK_FOR_REX.md). Checked items below record completed coverage; unchecked items explain the remaining scope.
 
