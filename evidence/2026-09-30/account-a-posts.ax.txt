@@ -1,0 +1,25 @@
+Browser tab: 1, Title: "Profile · Open Social", URL: "https://opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 30-34, 36-320
+~0 AXWebArea Profile · Open Social, URL: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+~		2 link Description: Skip to content, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG#main
+~			28 container
+~				29 heading OSP Review A 20260930, Value: 1
++					30 text OSP Review A 20260930
++				31 text 1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
++				32 button Copy address
++				33 text Disposable testnet account for Open Social user testing. Fictional content only. 3 posts 0 friends 0 followers 0 following
++				34 button Edit profile
+~			35 tab group Profile views
++				36 tab (selected, settable, boolean) Posts, Value: 1
++				37 tab (selectable, settable, boolean) About, Value: 0
++			38 container Your posts
++				39 link Description: What’s happening?, Value: opensocial.online/compose?audience=public
++				40 pop up button (collapsed, settable) Description: New post audience, Value: Public, Secondary Actions: Expand
++					41 menu
++						42 (selected) Public
++						43 Friends
++				44 link Description: Post, Value: opensocial.online/compose?audience=public
++				45 container
++					46 text Loading …
+The focused UI element is 10 link Description: Profile, URL: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG

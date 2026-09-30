@@ -1,0 +1,28 @@
+Browser tab: 1, Title: "Messages · Open Social", URL: "https://opensocial.online/messages".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 49-52
+~			27 link Description: Activity, 3 new, Value: opensocial.online/notifications
+~				43 checkbox Value: 1, OSP Review B 20260930 OSP user review 20260930 — MESSAGE B1. Reply received by test account B. ✅ Connected
+~					44 text OSP Review B 20260930
++			55 container
++				56 heading OSP Review B 20260930, Value: 2
++					57 link Description: OSP Review B 20260930, Help: 1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y, Value: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
++				58 text Connected
++				59 container Conversation messages
++					60 text You  · 30/09/2026, 22:23:54
++					61 text OSP user review 20260930 — MESSAGE A1. Fictional greeting from test account A.
++					62 text Them  · 30/09/2026, 22:25:30
++					63 text OSP user review 20260930 — MESSAGE B1. Reply received by test account B. ✅
++				64 text Message
++				65 text entry area (settable) Message
++				66 button (disabled) Send message
++				67 button Close conversation
++			68 container
++				69 heading Linked browsers, Value: 2
++					70 text Linked browsers
++				71 text Copy existing history and new messages securely between browsers you approve. Each browser keeps its own message keys. Copies use your existing message credits. This browser:
++				72 text GE2SrqPb
++				73 text Open Messages on both browsers. Choose Link here, then compare the code on both screens before approving on the other browser. Only approve a request you started. Enable messaging on your other browser to link it here. A linked browser can catch up after being offline. History copying pauses while the sending browser is closed or locked. Unlinking stops future copies; it cannot erase messages already copied.
++			74 button (collapsed) Messaging browsers, Secondary Actions: Expand
++				75 text Messaging browsers
+The focused UI element is 43 checkbox Value: 1, OSP Review B 20260930 OSP user review 20260930 — MESSAGE B1. Reply received by test account B. ✅ Connected

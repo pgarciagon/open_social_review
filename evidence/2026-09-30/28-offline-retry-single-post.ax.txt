@@ -1,0 +1,144 @@
+Window: "Profile · Open Social", App: Google Chrome.
+0 standard window Profile · Open Social - Google Chrome (Incognito), URL: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y, Secondary Actions: Raise
+	1 container Profile · Open Social - Google Chrome (Incognito), URL: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+		2 container
+			3 toolbar
+				4 button Back
+				5 button (disabled) Forward
+				6 button Reload
+				7 container
+					8 pop-up button View site information
+					9 text field (settable) Address and search bar, Value: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y, Placeholder: Search Google or type a URL
+					10 button Bookmark this tab
+				11 container
+					12 pop-up button AdBlock — block ads across the web
+Has access to this site
+					13 pop-up button Extensions
+				14 tickbox Downloads, Value: 0
+				15 button Incognito
+				16 pop-up button Chrome
+			17 container
+				18 HTML content Profile · Open Social, URL: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+					19 container
+						20 link Skip to content, Value: opensocial.online/post/5GbWF2cSsavPRs_90C_TsTvDiO9wHSQU8BOfvEQ8YQw=#main
+						21 link Open Social home, Value: opensocial.online/
+						22 container Primary
+							23 link Feed, Value: opensocial.online/
+							24 link Explore, Value: opensocial.online/people
+							25 link Friends, Value: opensocial.online/friends
+							26 link Messages, Value: opensocial.online/messages
+							27 link Profile, Value: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+						28 container
+							29 heading Topics, Value: 2
+								30 text Topics
+							31 text field (settable) Search hashtags, Placeholder: Search topics
+							32 link # community, Value: opensocial.online/tags/community
+							33 link # technology, Value: opensocial.online/tags/technology
+							34 link # art, Value: opensocial.online/tags/art
+							35 link # photography, Value: opensocial.online/tags/photography
+						36 link Settings, Value: opensocial.online/settings
+						37 button More
+						38 link Create a post, Value: opensocial.online/compose
+						39 container
+							40 text field (settable) Find people by nickname, Placeholder: Find your people…
+							41 button Search people
+						42 link Activity, 2 new, Value: opensocial.online/notifications
+						43 link Your profile, Value: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+						44 container
+							45 heading OSP Review B 20260930, Value: 1
+								46 text OSP Review B 20260930
+							47 text 1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+							48 button Copy address
+							49 text Disposable testnet account B for Open Social user testing. Fictional content only. 3 posts 0 friends 0 followers 0 following
+							50 button Edit profile
+						51 tab group Profile views
+							52 tab (selected) Posts, Value: 1
+							53 tab (settable, integer) About, Value: 0
+						54 container Your posts
+							55 link What’s happening?, Value: opensocial.online/compose?audience=public
+							56 pop-up button New post audience, Value: Public
+								57 (selected) Public
+							58 link Post, Value: opensocial.online/compose?audience=public
+							59 container Post by OSP Review B 20260930
+								60 container
+									61 link OSP Review B 20260930, Help: 1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y, Value: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+									62 text just now
+									63 text Public
+								64 text OSP user review 20260930 — OFFLINE RETRY TEST B. Fictional content; submit once, reconnect, check for duplicates.
+								65 button Promote
+								66 container
+									67 toggle button Like, Value: 0
+									68 link Reply, Value: opensocial.online/post/_Qdbf_NpgjdAXWRGf1tTK6T_wRBZb3hLSZLEJBUGGtg=
+							69 container Post by OSP Review B 20260930
+								70 container
+									71 link OSP Review B 20260930, Help: 1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y, Value: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+									72 text 3 min ago
+									73 text Friends
+								74 text OSP user review 20260930 — PRIVATE AFTER UNFRIENDING B1. Fictional blue garden note for B only.
+								75 container
+									76 toggle button Like, Value: 0
+									77 link Reply, Value: opensocial.online/post/zKq4Yt44va3hOAuvWb3Q18FGhdq-qzbMzlDByH3afZc=
+							78 container Post by OSP Review B 20260930
+								79 container
+									80 link OSP Review B 20260930, Help: 1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y, Value: opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+									81 text 17 min ago
+									82 text Public
+								83 container
+									84 text Reply to
+									85 link a post, Value: opensocial.online/post/CMqvye20KgrOYO6aV6pK0SZA4M00upaXNXfO_f--jZM=
+								86 text OSP user review 20260930 — REPLY TEST from account B. The short public post is visible. ✅
+								87 button Promote
+								88 container
+									89 toggle button Like, Value: 0
+									90 link Reply, Value: opensocial.online/post/RHHSOfabRHsMuiKx5MfHhEBbEw9ETqKD1aX-GyGaY_I=
+						91 container Your connections
+							92 container
+								93 heading Your people, Value: 2
+									94 text Your people
+								95 link View all friends, Value: opensocial.online/friends
+								96 text A good conversation starts with a connection.
+								97 link Find people, Value: opensocial.online/people
+							98 container
+								99 heading Messages, Value: 2
+									100 text Messages
+								101 link View messages, Value: opensocial.online/messages
+								102 text Keep the conversation going in private.
+								103 link Open messages, Value: opensocial.online/messages
+							104 container
+								105 text Your connections belong to you. Your friends-only posts are encrypted.
+							106 link About Open Social, Value: opensocial.online/about
+							107 link Settings, Value: opensocial.online/settings
+							108 text Built on an open protocol.
+			109 container Infobar Container
+				110 container Infobar
+					111 container
+						112 text 'ChatGPT' started debugging this browser
+						113 button Cancel
+					114 button Close
+			115 pop-up button Tab search
+			116 container
+				117 tab group
+					118 tab (selected, settable, boolean) Profile · Open Social - Memory usage - 372 MB, Value: on
+						119 button Close
+			120 button New tab
+		121 text https://opensocial.online/u/1MzrBJT5sqxzK4iknqcxdbHnWS7fkxf16Y
+	122 close button
+	123 full screen button Help: this button also has an action to zoom the window, Secondary Actions: zoom the window
+	124 minimise button
+125 menu bar
+	126 Chrome
+	127 File
+	128 Edit
+	129 View
+	130 History
+	131 Bookmarks
+	132 Profiles
+	133 Tab
+	134 Window
+	135 Help
+
+Selected text: ```
+￼
+```
+
+Note: Pay special attention to the content selected by the user. If the user asks a question or refers to the content they are looking at on-screen, they might be referring to the selected content (but they might be referring to something else that's visible, too).

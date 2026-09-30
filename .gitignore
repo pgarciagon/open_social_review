@@ -1,0 +1,11 @@
+# Reference checkout; this repository contains the user review only.
+/source/
+
+# Local files and account recovery material must never be committed.
+.DS_Store
+*.pem
+*.key
+*passphrase*
+*identity.json
+.env
+.env.*

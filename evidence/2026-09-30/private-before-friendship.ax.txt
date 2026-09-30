@@ -1,0 +1,154 @@
+Browser tab: 1, Title: "Feed · Open Social", URL: "https://opensocial.online/?feed=friends".
+0 AXWebArea Feed · Open Social, URL: opensocial.online/?feed=friends
+	1 container root
+		2 link Description: Skip to content, Value: opensocial.online/?feed=friends#main
+		3 container
+			4 link Description: Open Social home, Value: opensocial.online/
+			5 container Primary
+				6 link Description: Feed, Value: opensocial.online/
+				7 link Description: Explore, Value: opensocial.online/people
+				8 link Description: Friends, Value: opensocial.online/friends
+				9 link Description: Messages, Value: opensocial.online/messages
+				10 link Description: Profile, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+			11 heading Topics, Value: 2
+				12 text Topics
+			13 text field (settable) Search hashtags
+			14 link Description: # community, Value: opensocial.online/tags/community
+			15 link Description: # technology, Value: opensocial.online/tags/technology
+			16 link Description: # art, Value: opensocial.online/tags/art
+			17 link Description: # photography, Value: opensocial.online/tags/photography
+			18 link Description: Settings, Value: opensocial.online/settings
+			19 button More
+			20 link Description: Create a post, Value: opensocial.online/compose
+			21 link Description: OSP Review A 20260930 Your account, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+		22 container
+			23 text field (settable) Find people by nickname
+			24 button Search people
+			25 link Description: Activity, 2 new, Value: opensocial.online/notifications
+			26 link Description: Your profile, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+		27 container main
+			28 heading Your people. Your world., Value: 1
+				29 text Your  people.  Your world.
+			30 text Real connections. Conversations that belong to you.
+			31 tab group Feed scope
+				32 tab (selectable, settable, boolean) All posts, Value: 0
+				33 tab (selectable, settable, boolean) Public, Value: 0
+				34 tab (selected, settable, boolean) Friends, Value: 1
+			35 text Most recent
+			36 link Description: What’s happening?, Value: opensocial.online/compose?audience=public
+			37 pop up button (collapsed, settable) Description: New post audience, Value: Public, Secondary Actions: Expand
+				38 menu
+					39 (selected) Public
+					40 Friends
+			41 link Description: Post, Value: opensocial.online/compose?audience=public
+			42 container Description: Friends, ID: feed-friends
+				49 container Post by OSP Review A 20260930
+					50 container
+						51 link Description: OSP Review A 20260930, Help: 1tktdidjqFzYKifsLQCoT3XTvdTtfPimG, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+						52 text just now
+						53 text Friends
+					54 text OSP user review 20260930 — PRIVATE BEFORE FRIENDSHIP TEST. Fictional garden note A0. Account B is not a friend when this is published.
+					55 container
+						56 checkbox Like, Value: 0
+						57 link Description: Reply, Value: opensocial.online/post/mXunSaiunWm7oGoTvmYwD9wHidg47wps6FRHEQek6J4=
+				58 container Post by OSP Review A 20260930
+					59 container
+						60 link Description: OSP Review A 20260930, Help: 1tktdidjqFzYKifsLQCoT3XTvdTtfPimG, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+						61 text 1 min ago
+						62 text Public
+					63 text OSP user review 20260930 — LONG IMAGE TEST. Fictional content; no action needed.
+
+Paragraph 1: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 2: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 3: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 4: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 5: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 6: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 7: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 8: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 9: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 10: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 11: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 12: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+End of long test. Accents: café, mañana, über. Emoji: 🌿 🚀.
+					64 content list
+						65 text Loading photo…
+					66 button Promote
+					67 container
+						68 checkbox Like, Value: 0
+						69 link Description: Reply, Value: opensocial.online/post/GhubJrC6OEow_sA7MSvLheOAfdOo_8kIKzSxQzvWKZI=
+				70 container Post by OSP Review A 20260930
+					71 container
+						72 link Description: OSP Review A 20260930, Help: 1tktdidjqFzYKifsLQCoT3XTvdTtfPimG, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+						73 text 2 min ago
+						74 text Public
+					75 text OSP user review 20260930 — SHORT IMAGE TEST. Synthetic checkerboard; no personal data.
+					76 content list
+						77 text Loading photo…
+					78 button Promote
+					79 container
+						80 checkbox Like, Value: 0
+						81 link Description: Reply, Value: opensocial.online/post/LNrmG3jhTcSkeKIGchfXNT71h9leYu_dpl_krISR6Qc=
+				82 container Post by OSP Review A 20260930
+					83 container
+						84 link Description: OSP Review A 20260930, Help: 1tktdidjqFzYKifsLQCoT3XTvdTtfPimG, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+						85 text 3 min ago
+						86 text Public
+					87 text OSP user review 20260930 — LONG PUBLIC TEST. Fictional content; no action needed.
+
+Paragraph 1: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 2: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 3: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 4: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 5: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 6: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 7: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 8: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 9: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 10: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 11: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+Paragraph 12: The fictional explorers visit a quiet garden, describe the green trees and blue sky, and record what they see. This text checks paragraph breaks, punctuation, and readability in a longer social post.
+
+End of long test. Accents: café, mañana, über. Emoji: 🌿 🚀.
+					88 button Promote
+					89 container
+						90 checkbox Like, Value: 0
+						91 link Description: Reply, Value: opensocial.online/post/5sk2mSg3dYrZvxsw0xET37I0fq8IoZIyoVYvgVjkqfw=
+				92 container Post by OSP Review A 20260930
+					93 container
+						94 link Description: OSP Review A 20260930, Help: 1tktdidjqFzYKifsLQCoT3XTvdTtfPimG, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
+						95 text 5 min ago
+						96 text Public
+					97 text OSP user review 20260930 — SHORT PUBLIC TEST. Fictional content, no action needed. Hello from account A! 👋
+					98 button Promote
+					99 container
+						100 checkbox 1 Like, Value: 0
+							101 text 1
+							102 text Like
+						103 link Description: 1 replies, Value: opensocial.online/post/CMqvye20KgrOYO6aV6pK0SZA4M00upaXNXfO_f--jZM=
+				48 button Refresh
+
+The focused UI element is 0 AXWebArea Feed · Open Social, URL: opensocial.online/?feed=friends

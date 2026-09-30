@@ -1,0 +1,24 @@
+Browser tab: 1, Title: "Open Social", URL: "https://opensocial.online/post/LNrmG3jhTcSkeKIGchfXNT71h9leYu_dpl_krISR6Qc=".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~			29 container Post by OSP Review A 20260930
+~				30 container
++					31 link Description: OSP Review A 20260930, Help: 1tktdidjqFzYKifsLQCoT3XTvdTtfPimG, Value: opensocial.online/u/1tktdidjqFzYKifsLQCoT3XTvdTtfPimG
++					32 text 1 min ago
++					33 text Public
++				34 text OSP user review 20260930 — SHORT IMAGE TEST. Synthetic checkerboard; no personal data.
++				35 content list
++					36 image Synthetic teal and dark checkerboard for the Open Social user review.
++				37 button Promote
++				38 container
++					39 checkbox Like, Value: 0
++					40 text 0  replies
++					41 button (collapsed) Details, Secondary Actions: Expand
++						42 text Details
++			43 button Edit
++			44 button Delete
++			45 container
++				46 heading Replies, Value: 2
++					47 text Replies
++				48 button Reply
++				49 text No replies yet.
+The focused UI element is 0 AXWebArea Open Social, URL: opensocial.online/post/LNrmG3jhTcSkeKIGchfXNT71h9leYu_dpl_krISR6Qc=
